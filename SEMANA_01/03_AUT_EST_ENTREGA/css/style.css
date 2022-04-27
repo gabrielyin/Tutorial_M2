@@ -1,0 +1,16 @@
+:root {
+    --lightBeige: #F0ECE3;
+    --beige: #DFD3C3;
+    --darkBeige: #C7B198;
+    --grey: #596E79;
+}
+
+body {
+    font-family: 'Montserrat', sans-serif;
+    background: var(--lightBeige);
+}
+
+.container {
+    width: 60%;
+    margin: 0 auto;
+}
